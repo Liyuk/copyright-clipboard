@@ -1,0 +1,2 @@
+# copyright-clipboard
+zhihu copyright
